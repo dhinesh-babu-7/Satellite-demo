@@ -1,0 +1,3 @@
+Satellite: MiniSat
+Altitude: 400 km
+Velocity: 7.67 km/s

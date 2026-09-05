@@ -1,0 +1,14 @@
+[
+    {
+        "temperature": 24.5,
+        "battery": 96,
+        "altitude": 400.2,
+        "velocity": 7.67
+    },
+    {
+        "temperature": 27.8,
+        "battery": 94,
+        "altitude": 400.5,
+        "velocity": 7.68
+    }
+]
