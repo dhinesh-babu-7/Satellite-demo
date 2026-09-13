@@ -30,6 +30,7 @@ print(f"Maximum height: {max_height:.2f} m")
 print(f"Maximum distance: {max_distance:.2f} m")
 
 plt.plot(x, y)
+plt.scatter(max_distance, max_height, color='red', label='Max Height100')
 
 plt.xlabel("X Position (m)")
 plt.ylabel("Y Position (m)")
